@@ -1,4 +1,8 @@
 _repo: Oakdale-Boys-in-Camp_49363
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49363-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, Morgan
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '25606'
     url: http://www.gutenberg.org/2009/agents/25606
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49363#Oakdale-Boys-in-Camp
 gutenberg_issued: '2015-07-05'
 gutenberg_type: Text
 identifiers:
